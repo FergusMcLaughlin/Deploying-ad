@@ -1,5 +1,4 @@
 /***
- * Asteroid Designer 
  * 
  * A Web based Gltf loader that uese PANGU to allow 
  * Users to edit asteroid models.
