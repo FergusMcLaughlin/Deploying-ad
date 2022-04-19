@@ -1,10 +1,10 @@
 /***
- * Asteroid Designer (AC40001 Honours Project)
+ * Asteroid Designer (
  * 
  * A Web based Gltf loader that uese PANGU to allow 
  * Users to edit asteroid models.
  * 
- * Fergus Mclaughlin (170015911), University of Dundee, 2022
+ * 
  */
 
 
