@@ -9,13 +9,16 @@
   },
   "devDependencies": {
     "@types/dat.gui": "^0.7.7",
+    "@vue/compiler-sfc": "^3.2.33",
     "lil-gui": "^0.16.1",
     "vite": "^2.8.0"
   },
   "dependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
     "dat.gui": "^0.7.9",
     "stats-js": "^1.0.1",
     "three-stats": "^1.0.1",
-    "three-vignette-background": "^1.0.3"
+    "three-vignette-background": "^1.0.3",
+    "vue": "^3.2.31"
   }
 }
